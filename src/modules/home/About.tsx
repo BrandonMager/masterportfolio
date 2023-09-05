@@ -1,4 +1,4 @@
-import Me from "/public/assets/images/me.jpeg"
+import Me from "/public/assets/images/me.png"
 export const About = () => {
     return <div className="w-full py-[100px] bg-[#26A889] text-white">
         <div className="container mx-auto relative flex flex-col w-full xl:w-[1100px]">
