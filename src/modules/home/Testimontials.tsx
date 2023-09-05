@@ -1,6 +1,6 @@
-import Star from "@/public/assets/svgs/star.svg"
+import Star from "/public/assets/svgs/star.svg"
 import { motion } from "framer-motion"
-import Typhoon from "@/public/assets/svgs/typhoon.svg"
+import Typhoon from "/public/assets/svgs/typhoon.svg"
 
 export const Testimonials = () => {
     return <div className="w-full py-[100px] bg-[#26A889] text-white">

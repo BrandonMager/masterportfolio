@@ -1,4 +1,4 @@
-import Hamburger from "@/assets/svgs/hamburger.svg"
+import Hamburger from "/public/assets/svgs/hamburger.svg"
 import Image from "next/image"
 
 export default function Navbar(){
