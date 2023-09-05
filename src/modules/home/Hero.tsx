@@ -1,5 +1,5 @@
 import Image from "next/image"
-import HeroImage from "@/assets/images/hero.jpg"
+import HeroImage from "@/public/assets/images/hero.jpg"
 
 export const Hero = () => {
     return <div className="w-full">
